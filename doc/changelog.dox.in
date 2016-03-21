@@ -4,7 +4,10 @@
 
 ## PDL Tools Revision History
 
-### PDL Tools 1.5 (packaged with SUgAR 1.0) -- Current version
+### PDLTools 1.6 (packaged with SUgAR 1.0) -- Current branch
+- Added module for misc. distance metrics, including KL-Divergence.
+
+### PDL Tools 1.5 (packaged with SUgAR 1.0) 
 - Modifications in preparation to make PDLTools public. Removing module with pending IP (connected components).
 
 ### PDL Tools 1.4 (packaged with SUgAR 1.0) 
